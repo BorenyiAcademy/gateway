@@ -71,8 +71,8 @@
   .about_page{
     font-size: 20px;
   }
-  a.navbar-brand {
-    
+  .navbar {
+    border-bottom: 10px solid #03002E;
   }
   .btn:hover {
     background-color: #C90076 !important;
